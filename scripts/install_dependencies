@@ -1,4 +1,4 @@
 #!/bin/bash
 #sudo yum install -y httpd
-sudo apt-get install
-sudo apt-get install apache2
+sudo apt-get install -y 
+sudo apt-get install apache2 -y 
